@@ -1,0 +1,12 @@
+{
+    "name": "rocky/rocky",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rocky",
+            "email": "939555035@qq.com"
+        }
+    ],
+    "require": {}
+}
